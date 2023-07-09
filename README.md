@@ -45,5 +45,3 @@
 - [ECMAScript® 2018 Language Specification（ES8 英）](https://www.ecma-international.org/ecma-262/9.0/index.html)：ECMAScript 2018 规范文档
 - [HTML Living Standard](https://html.spec.whatwg.org/)：HTML 规范文档 [🇨🇳 中文版](https://whatwg-cn.github.io/html/)
 - [DOM Living Standard](https://dom.spec.whatwg.org/)：DOM 规范文档
-
-### License
